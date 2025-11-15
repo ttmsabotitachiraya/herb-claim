@@ -1,7 +1,7 @@
 <template>
   <div class="topbar">
     <div class="top-left">
-      <div class="title">git initHerb Claim</div>
+      <div class="title">Herb Claim</div>
       <div class="subtitle">งานแพทย์แผนไทย โรงพยาบาลสระโบสถ์</div>
     </div>
     <div class="controls">
